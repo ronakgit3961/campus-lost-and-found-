@@ -1,0 +1,3 @@
+id,recipientUserId,title,message,timestamp,read
+NOTIF-1001,USR-1001,High Match Found!,A found item 'Black Sports Bottle' (FND-1001) in Central Library matches your report (Score: 86/100).,2026-11-22 16:49:19,false
+NOTIF-1002,USR-1003,Wallet Recovered,Your wallet claim CLM-1001 was approved and handed over.,2026-11-17 16:49:19,true

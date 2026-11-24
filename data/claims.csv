@@ -1,0 +1,4 @@
+id,foundItemId,claimantUserId,submissionDate,submittedAnswers,verificationScore,status,reviewNotes,reviewedByAdminId,reviewedAt
+CLM-1002,FND-1007,USR-1002,2026-11-05 16:49:19,Bob Jenkins initials on label,100.0,APPROVED,Verified size M and initials.,USR-1000,2026-11-06 16:49:19
+CLM-1003,FND-1008,USR-1003,2026-11-22 16:49:19,black,100.0,PENDING,Awaiting physical verification of watch dial.,,
+CLM-1001,FND-1003,USR-1003,2026-11-16 16:49:19,Charlie Davis,100.0,APPROVED,Verified identity via university roll card.,USR-1000,2026-11-16 16:49:19

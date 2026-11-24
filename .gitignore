@@ -1,0 +1,14 @@
+# Compiled Java class files
+*.class
+bin/
+out/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Logs and runtime artifacts
+*.log

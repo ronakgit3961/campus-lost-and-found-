@@ -1,0 +1,11 @@
+id,itemId,claimId,eventType,timestamp,actorUserId,description
+EVT-1001,FND-1003,,REPORTED,2026-11-15 16:49:19,USR-1004,Found brown wallet reported by Diana Prince.
+EVT-1002,FND-1003,,MATCH_DETECTED,2026-11-15 16:49:19,SYSTEM,Automatic match detected with Lost Item LST-1003.
+EVT-1003,FND-1003,CLM-1001,CLAIM_SUBMITTED,2026-11-16 16:49:19,USR-1003,Charlie Davis answered verification questions (Score 100%).
+EVT-1004,FND-1003,CLM-1001,CLAIM_APPROVED,2026-11-16 16:49:19,USR-1000,Administrator Dr. Arthur Vance approved claim.
+EVT-1005,FND-1003,CLM-1001,ITEM_RETURNED,2026-11-17 16:49:19,USR-1000,Wallet handed over in person to Charlie Davis.
+EVT-1006,FND-1003,CLM-1001,RECOVERY_COMPLETED,2026-11-17 16:49:19,USR-1000,Recovery lifecycle closed successfully.
+EVT-1007,FND-1001,,REPORTED,2026-11-22 16:49:19,USR-1002,Bob reported finding black sports bottle in Library.
+EVT-1008,LST-1001,,REPORTED,2026-11-22 16:49:19,USR-1001,Alice reported lost black water bottle in Library.
+EVT-1009,LST-1001,,MATCH_DETECTED,2026-11-22 16:49:19,SYSTEM,IntelliRecover calculated Strong Match (86/100) with FND-1001.
+EVT-1010,LST-1011,,REPORTED,2026-11-24 17:41:49,USR-1001,Lost item reported: 'airpods white color apple' in category Electronics & Gadgets.

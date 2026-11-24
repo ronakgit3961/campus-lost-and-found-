@@ -1,0 +1,7 @@
+id,username,passwordHash,salt,fullName,email,role,createdAt,studentOrStaffId,department,phone
+USR-1005,eva,uPF0HT3EbRynOaXzSPoI06ED4CYjqzDJJYL3dEzjHsM=,Q7SKtQQXtiCO6jXT8hknSg==,Eva Green,eva@campus.edu,STUDENT,2026-11-09 16:49:19,STU-2024-005,Biotechnology,9876543214
+USR-1004,diana,OhypMg4yBN0ZnNNmJ+e+F69EjRkGUYo555x7MhQBvWY=,WiAX4sjRpnbc66xpb/H9NA==,Diana Prince,diana@campus.edu,STUDENT,2026-11-04 16:49:19,STU-2024-004,Business Administration,9876543213
+USR-1003,charlie,d0yrcdF+AgCk46APQaPMJiJhgO/QtJyXIt/CPDqabzM=,QraorH+gQpOaNLJJemALHg==,Charlie Davis,charlie@campus.edu,STUDENT,2026-10-30 16:49:19,STU-2024-003,Mechanical Engineering,9876543212
+USR-1002,bob,qzymoBLv0WPGJcV63GVanY2Wrdtde1dujDDoGAcD1+8=,OhUevj3LMsd8swx6I/xSKA==,Bob Jenkins,bob@campus.edu,STUDENT,2026-10-27 16:49:19,STU-2024-002,Electrical Engineering,9876543211
+USR-1001,alice,ZHKNM+VCiK+k074VNK3W8wUMuJDzZtduRTrc7jm1iUM=,+OhLKOIwik2LZ/pur4YLag==,Alice Sharma,alice@campus.edu,STUDENT,2026-10-25 16:49:19,STU-2024-001,Computer Science,9876543210
+USR-1000,admin,wmD32T3ryr3QJJ1mmRYXOV/G3EyxmrsKNU0G1UxIUm0=,hzyBIyEWupeJpgrwTiHnLw==,Dr. Arthur Vance,security.head@campus.edu,ADMINISTRATOR,2026-09-25 16:49:19,STF-101,Campus Security & Student Affairs,
